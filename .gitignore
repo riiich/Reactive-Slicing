@@ -61,6 +61,17 @@ sysinfo.txt
 *.unitypackage
 *.app
 
+# Game Assets
+/Assets/Challenges
+/Assets/JKT_ART
+/Assets/Samples
+/Assets/Project Assets/_Creepy_Cat
+/Assets/Project Assets/Audio
+/Assets/Project Assets/Cyberpunk street
+/Assets/Project Assets/Low Poly Cyber Ninja Sword
+/Assets/Project Assets/Lowylpoly
+/Assets/Project Assets/PBS Materials Variety Pack
+
 # Crashlytics generated file
 crashlytics-build.properties
 
